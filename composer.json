@@ -17,7 +17,7 @@
     "require": {
         "php": "^8.0",
         "genealabs/laravel-pivot-events": "^9.0",
-        "illuminate/framework": "^10.0"
+        "laravel/framework": "^10.0"
     },
     "require-dev": {
         "doctrine/dbal": "^3.3",
